@@ -22,7 +22,7 @@ Este proyecto hace parte del curso **Proyecto I – Innovación Tecnológica**, 
 
 **Instructor:** Milton Orlando Sarria Paja  
 **Líder del equipo:** Gabriel Quijano  
-**Colaborador:** Gabriel Quijano  
+**Colaborador:** Andres Felipe Cuellar
 
 **Contacto:**  
 Si tienes preguntas o deseas contribuir, comunícate con el líder del equipo o el instructor del curso.
